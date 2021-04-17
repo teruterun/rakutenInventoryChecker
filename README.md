@@ -1,0 +1,2 @@
+# rakutenInventoryChecker
+楽天の在庫を調べるためのツール
